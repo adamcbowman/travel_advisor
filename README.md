@@ -1,15 +1,17 @@
 App uses Google Maps/Places APIs, as well as TravelAdvisor and weather APIs
 
-Built from Tutorial vid:
-https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=8063s
-
-https://github.com/adrianhajdin/project_travel_advisor
-
 Deployed at 
 https://acbtraveladvisor.netlify.app/
 
 
 <img width="1403" alt="image" src="https://user-images.githubusercontent.com/50798875/161381203-5f13ef05-3a06-4973-a958-77c489c122e0.png">
+
+
+Built from Tutorial vid:
+https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=8063s
+
+https://github.com/adrianhajdin/project_travel_advisor
+
 
 
 # Getting Started with Create React App
