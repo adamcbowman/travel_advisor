@@ -1,3 +1,8 @@
+Built from Tutorial vid:
+https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=8063s
+
+https://github.com/adrianhajdin/project_travel_advisor
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
