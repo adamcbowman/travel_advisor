@@ -1,3 +1,5 @@
+App uses Google Maps/Places APIs, as well as TravelAdvisor and weather APIs
+
 Built from Tutorial vid:
 https://www.youtube.com/watch?v=GDa8kZLNhJ4&t=8063s
 
